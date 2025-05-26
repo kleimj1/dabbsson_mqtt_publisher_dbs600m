@@ -1,6 +1,6 @@
 {
   "name": "Dabbsson MQTT Publisher DBS600M",
-  "version": "1.7.7",
+  "version": "1.0.0",
   "slug": "dabbsson_mqtt_publisher_dbs600m",
   "description": "Sendet DPS-Werte des DBS600M per MQTT an Home Assistant und empfängt Schaltbefehle",
   "url": "https://github.com/kleimj1/dabbsson_mqtt_publisher_dbs600m",
